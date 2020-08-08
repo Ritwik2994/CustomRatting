@@ -1,7 +1,7 @@
 # CustomRatting
  Android based custom rating with Kotlin
  
-**For developing from scratch visit this**  __[Article](https://medium.com/@rithvik2994/custom-rating-system-android-b342dd2a59d2?sk=8c71e22b4ac9386f2a54171039a157ac)__
+**For developing from scratch visit this**  __[Article](https://medium.com/@rithvik2994/custom-rating-system-android-3185b4f94596?sk=c45418d5f1588ba29885067a07f79128)__
  
 
  ```
